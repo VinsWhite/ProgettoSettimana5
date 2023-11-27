@@ -1,5 +1,3 @@
-/* !!! Sono riuscito a fare solo la versione desktop per mancanza di tempo */
-
 // Ottieni il pulsante e la barra di navigazione
 let pulsante = document.querySelector('.afterThis');
 let getStarted = document.querySelector("nav ul li button");
